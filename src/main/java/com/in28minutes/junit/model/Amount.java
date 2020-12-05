@@ -6,4 +6,6 @@ public interface Amount {
 	BigDecimal getValue();
 
 	Currency getCurrency();
+
+	//edit2
 }
