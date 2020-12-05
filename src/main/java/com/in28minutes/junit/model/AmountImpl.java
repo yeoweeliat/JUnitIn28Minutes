@@ -15,6 +15,7 @@ public class AmountImpl implements Amount {
 
 	public void setValue(BigDecimal value) {
 		this.value = value;
+		//edit
 	}
 
 	@Override
